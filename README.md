@@ -14,6 +14,9 @@ https://www.youtube.com/watch?v=x4u1wt93Le4
 
 ### Setup
 
-You'll need Python 3.9 to run this locally. (Earlier versions of Python might work too, but I haven't tested them myself.)
+You'll need Python 3.9 to run this locally. (other versions of Python might work too, but I haven't tested them myself.)
 
-Clone the repository, then run `pip install -r requirements.txt`. Next, run `python flask_app.py`, go to http://localhost:5000/, and you should be able to start playing with the tool. Enjoy!
+1. Clone the repository
+2. run `pip install -r requirements.txt`.
+3. Run `python flask_app.py`
+4. Go to http://localhost:5000/, and you should be able to start playing with the tool. Enjoy!
